@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Elite Careerr Automation" verbose="2">
+	<test name="Regression Test">
+		<packages>
+			<package name="tests">
+
+			</package>
+		</packages>
+	</test>
+</suite>
